@@ -1,1 +1,1 @@
-Each folders in this repository corresponds to the source code of a tool that operates on the RFC 4180 complaint CSV file or files that's related to it. Read README.md file of each tool to understand its function.
+Each folders in this repository corresponds to the source code of a tool that operates on the RFC 4180 compliant CSV file or files that's related to it. Read README.md file of each tool to understand its function.
